@@ -20,7 +20,7 @@ System design is a critical skill for software engineers, architects, and anyone
 - [Microservices Architecture](https://pycodedigi.substack.com/p/monolithic-vs-microservices-architecture)
 - Service-Oriented Architecture (SOA)
 - Event-Driven Architecture
-- Serverless Architecture
+- Serverless Architecture(https://pycodedigi.substack.com/p/serverless-architecture-a-deep-dive)
 - Layered Architecture
 - Modular Architecture
 - Pipe-and-Filter Architecture
