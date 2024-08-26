@@ -10,14 +10,14 @@ System design is a critical skill for software engineers, architects, and anyone
 ### **1. Introduction to System Design**
 
   - [What is System Design?](https://pycodedigi.substack.com/p/what-is-system-design)
-  - [Importance of System Design in Software Engineering](#)
-  - [Overview of the System Design Process](#)
-  - [Key Principles of System Design](#)
+  - [Importance of System Design in Software Engineering]
+  - [Overview of the System Design Process]
+  - [Key Principles of System Design]
   - [Trade-offs and Constraints in System Design](https://pycodedigi.substack.com/p/trade-offs-and-constraints-in-system)
 ### **2. Architectural Patterns**
 
-- Monolithic Architecture
-- Microservices Architecture
+- [Monolithic Architecture](https://pycodedigi.substack.com/p/what-is-monolithic-architecture)
+- [Microservices Architecture](https://pycodedigi.substack.com/p/monolithic-vs-microservices-architecture)
 - Service-Oriented Architecture (SOA)
 - Event-Driven Architecture
 - Serverless Architecture
