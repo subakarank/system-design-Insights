@@ -96,7 +96,7 @@ System design is a critical skill for software engineers, architects, and anyone
 
 ### **8. Reliability and Availability**
 
-- High Availability Architectures
+- [High Availability Architectures](https://pycodedigi.substack.com/p/availability-in-software-system-design)
 - Failover Strategies
 - Redundancy (Active-Passive, Active-Active)
 - Disaster Recovery Planning
