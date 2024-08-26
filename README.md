@@ -9,7 +9,7 @@ System design is a critical skill for software engineers, architects, and anyone
 
 ### **1. Introduction to System Design**
 
-  - [What is System Design?](#)
+  - [What is System Design?](https://pycodedigi.substack.com/p/what-is-system-design)
   - [Importance of System Design in Software Engineering](#)
   - [Overview of the System Design Process](#)
   - [Key Principles of System Design](#)
