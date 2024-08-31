@@ -1,6 +1,7 @@
 # System-Design-Insights
 
 Welcome to **System-Design-Insights**, a curated collection of articles and resources on system design. This repository serves as an index to my in-depth Substack articles, where I explore various aspects of system architecture, scalability, and design patterns.
+![System-Design-Insights](https://github.com/subakarank/media/blob/d61a3fe48dee5bdd1547322987e7f39cb9e9ab1a/Key%20Principles%20of%20System%20Design.png)
 
 ## About This Repository
 
